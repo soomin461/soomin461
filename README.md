@@ -1,18 +1,12 @@
-### Hi there 👋
+### Oh Hello 👋
 # I want to be Developer
+## Studying Now PYTHON / TENSORFLOW / DEEP LEARNING FOR MY FUN
 
-<!--
-**soomin461/soomin461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here are ✨ my GitHub profile ✨and share some ideas
+- 🔭 I’m currently working on Samsung Electronics (Circuit Engineer)
+- 🌱 I’m currently learning Python / Tensorflow / Data
+- ⚡ Fun fact: So, today I'm interested in lots of Animation, Movie, English..
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The flow of time will not stop for you
+Time cant accompany you to bear grief
 
