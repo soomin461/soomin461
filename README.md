@@ -1,4 +1,4 @@
-# Oh hey — I'm Soomin Kim  ◝(⁰▿⁰)◜ 
+# Oh hey — I'm Soomin  ◝(⁰▿⁰)◜ 
 
 
 ## I want to be Developer   (૭ ᐕ)૭  
